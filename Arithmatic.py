@@ -1,0 +1,8 @@
+a=input('Enter 1st No')
+b= input('Enter 2nd No')
+print("Arithmatic Operation Perform on the Given No.")
+print("Add is",int(a)+int(b))
+print("Mult is",int(a)*int(b))
+print("Sub is",int(a)-int(b))
+print("Div is",int(a)/int(b))
+print("Module is",int(a)%int(b))
